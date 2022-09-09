@@ -94,5 +94,50 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sekil\Telegram-logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Telegram-logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sekil\smile-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sekil\mic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="mic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="smile-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sekil\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sekil\tra.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="tra.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sekil\reas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="reas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sekil\Telegram_2019_Logo.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Telegram_2019_Logo.svg.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
